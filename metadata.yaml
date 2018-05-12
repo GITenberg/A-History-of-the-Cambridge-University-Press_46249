@@ -1,0 +1,28 @@
+_repo: A-History-of-the-Cambridge-University-Press_46249
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46249-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, S. C. (Sydney Castle)
+    alias: Roberts, Sydney Castle
+    birthdate: 1887
+    deathdate: 1966
+    gutenberg_agent_id: '43507'
+    url: http://www.gutenberg.org/2009/agents/43507
+description: ''
+gutenberg_issued: '2014-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cambridge University Press -- History'
+- !lcc 'Z'
+- !lcsh 'Cambridge University Press -- Bibliography'
+title: A History of the Cambridge University Press, 1521-1921
+url: http://www.gutenberg.org/ebooks/46249
